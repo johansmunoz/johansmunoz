@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sebastian Muñoz
-- 👀 I’m interested in Data Analisys, and other hobbies, as automation and videogames
-- 🌱 I’m currently learning Java with Spring boot
-- 💞️ I’m looking to collaborate on anyone that give the opportunity of learn with the practice
+- 👀 I’m interested in Data Science and Data Analisys
+- 🌱 I’m currently learning new things every day about Python, SQL and the all about the data.
+- 💞️ I’m looking to collaborate on anyone that give me the opportunity of learn with the practice
 
 <!---
 johansmunoz/johansmunoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
